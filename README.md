@@ -1,3 +1,5 @@
+The application has 2 parts: frontend & backend. To go to the admin panel, you need to enter http://localhost:3000/admin/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
