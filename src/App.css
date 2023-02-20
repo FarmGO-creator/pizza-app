@@ -1,0 +1,13 @@
+.link {
+    text-decoration: none;
+    color: #fff;
+    margin-left: 20px;
+}
+
+.link:nth-child(1) {
+    margin: 0;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
